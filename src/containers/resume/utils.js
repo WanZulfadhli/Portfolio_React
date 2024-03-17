@@ -31,7 +31,6 @@ export const data = {
             subTitle: "UiTM Jasin",
             description: "User Experiencing, Visual Design",
             date: "July 2019 - September 2019",
-            
         },
     ],
 };
